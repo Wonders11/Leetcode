@@ -13,6 +13,7 @@ class Solution:
             for j in range(len(img)):
                 img[j] ^= 1 
         return img
+        https://www.youtube.com/watch?v=KF63-zg3tPk
         """
 
         
